@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Faizan</h1>
-<h4 align="center">A freelance developer an also a BCA students at Aliah university</h4>
+<h4 align="center">A freelance developer an also a BCA student at Aliah university.</h4>
 </div>
 
 <div align="center">
