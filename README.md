@@ -25,5 +25,5 @@ Here are some ideas to get you started:
        alt="snake" /></a>
 </div>
 
-[![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faizan711)](https://github.com/Faizan711/github-readme-stats)
+[![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faizan711&theme=radical)](https://github.com/Faizan711/github-readme-stats)
 
