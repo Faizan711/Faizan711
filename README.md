@@ -24,3 +24,6 @@ Here are some ideas to get you started:
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+
+[![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faizan711)](https://github.com/Faizan711/github-readme-stats)
+
