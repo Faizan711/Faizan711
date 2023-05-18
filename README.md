@@ -48,8 +48,6 @@ I am currently working as a Web Developer Intern at G4GAME.IN<br>I am a final ye
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Faizan711&limit=4&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Faizan711&icon=0&color=0)](https://visitcount.itsvg.in)
