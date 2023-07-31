@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </div>
 
 # 💫 About Me:
-I am currently working as a FullStack Developer Intern at G4GAME.IN<br>I am a Computer Science Grad 2023<br>I am currently learning TypeScript, AWS and Next.JS<br>Ask me about Tech and Football
+I am open to both Full-time and Part-time opportunities<br>You can contact me at fa1319673@gmail.com<br>I am currently working as a FullStack Developer Intern at G4GAME.IN<br>I am a Computer Science Grad 2023<br>I am currently learning TypeScript, AWS and Next.JS<br>Ask me about Tech and Football
 
 
 ## 🌐 Socials:
