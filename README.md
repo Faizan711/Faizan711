@@ -43,8 +43,6 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Faizan711&hide_border=false)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan711&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@MdFaizan711)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
