@@ -25,12 +25,23 @@ Here are some ideas to get you started:
        alt="snake" /></a>
 </div>
 
+<br/>
+<br/>
 
-* 💫 About me: I am a Fullstack Web Developer and a 2023 CS Grad
-* 👯 I’m looking for both Fulltime opportunities and Internships
-* 📫 How to reach me : fa1319673@gmail.com
-* 🌱 I’m currently learning TypeScript, AWS and Monorepos
-* 💬 Ask me about Development and Football
+
+<div>
+  <img src="https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" align="right" width="300" alt="Profile Image" />
+  
+
+  - 🎓 2023 CS Grad
+  - 💼 Fullstack Web Developer
+  - 🌱 Currently learning TypeScript, AWS, and Monorepos
+  - 📫 Reach me at: [fa1319673@gmail.com](mailto:fa1319673@gmail.com)
+  - 💬 Ask me about Development and Football
+  
+</div>
+
+<br clear="right" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-faizan-alam-bb2180234/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@faizan711) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@MdFaizan711) 
