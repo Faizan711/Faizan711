@@ -52,7 +52,6 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=Faizan711&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Faizan711&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan711&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### ✍️ Random Dev Quote
