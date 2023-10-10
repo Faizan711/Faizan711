@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
   - 🎓 2023 CS Grad
   - 💼 Fullstack Web Developer
-  - 🌱 Currently learning TypeScript, AWS, and Monorepos
+  - 🌱 Currently learning Golang, TypeScript, AWS, and Monorepos
   - 📫 Reach me at: [fa1319673@gmail.com](mailto:fa1319673@gmail.com)
   - 💬 Ask me about Development and Football
   
