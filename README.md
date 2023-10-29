@@ -19,11 +19,12 @@ Here are some ideas to get you started:
 <h4 align="center">Web Dev | Open Source Contributor | Freelancer | Tech Enthusiast</h4>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+         alt="snake" />
+  </a>
+</div> -->
 
 <br/>
 <br/>
