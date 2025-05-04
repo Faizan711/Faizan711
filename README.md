@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Faizan</h1>
+<h1 align="center">Hi, I'm Faizan</h1>
 <h4 align="center">Web Dev | Open Source Contributor | Tech Writer | Freelancer | Tech Enthusiast</h4>
 </div>
 
@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 <div>
 
 
-  - 🎓 2023 CS Grad
-  - 💼 Fullstack Web Developer
+  - 🎓 CS Grad
+  - 💼 Fullstack Engineer
   - 🌱 Currently learning Golang, TypeScript, AWS, and Monorepos
   - 📫 Reach me at: [fa1319673@gmail.com](mailto:fa1319673@gmail.com)
   - 💬 Ask me about Development and Football
